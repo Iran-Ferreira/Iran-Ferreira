@@ -3,8 +3,8 @@ Olá!! Sou Iran Ferreira.
 
 <div align="center">
   <a href="https://github.com/Iran-Ferreira"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iran-Ferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iran-Ferreira&layout=compact&langs_count=80&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iran-Ferreira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iran-Ferreira&layout=compact&langs_count=150&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -23,4 +23,3 @@ Olá!! Sou Iran Ferreira.
   <a href="https://www.linkedin.com/in/iran-ferreira-ba847b234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-  
