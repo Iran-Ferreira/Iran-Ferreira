@@ -1,5 +1,6 @@
 Olá!! Sou Iran Ferreira.
-- Estudando HTML, CSS, JavaScript e Python
+- Desenvolvedor Python. 
+- Sei um pouco de HTML, CSS e JavaScript
 
 <div align="center">
   <a href="https://github.com/Iran-Ferreira"> 
