@@ -1,6 +1,5 @@
 Olá!! Sou Iran Ferreira.
-- Desenvolvedor Python. 
-- Sei um pouco de HTML, CSS e JavaScript
+- Desenvolvedor Python e Typescript.
 
 <div align="center">
   <a href="https://github.com/Iran-Ferreira"> 
@@ -13,7 +12,8 @@ Olá!! Sou Iran Ferreira.
   <img align="center" alt="Iran-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Iran-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Iran=CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Iran=JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Iran=JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Iran=TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   
 </div>
   
