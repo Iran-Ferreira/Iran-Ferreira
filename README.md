@@ -4,7 +4,8 @@ Olá!! Sou Iran Ferreira.
 <div align="center">
   <a href="https://github.com/Iran-Ferreira"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iran-Ferreira&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iran-Ferreira&layout=compact&langs_count=25&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Iran-Ferreira&theme=dark&hide_border=false"/> <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iran-Ferreira&layout=compact&langs_count=25&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
