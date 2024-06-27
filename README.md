@@ -1,5 +1,9 @@
 Olá!! Sou Iran Ferreira.
-- Desenvolvedor Python e Typescript.
+- Desenvolvedor Back-End.
+- Python - Django
+- JavaScript - TypeScript
+- PostgreSQL - PSQL
+- Prisma
 
 <div align="center">
   <a href="https://github.com/Iran-Ferreira"> 
